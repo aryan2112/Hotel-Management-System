@@ -9,6 +9,7 @@
 		height: 100%;
 		text-align: center;
 		position: relative;
+		
 		margin-right: 30%;
 		margin-left: 30%;
 		vertical-align: middle;
