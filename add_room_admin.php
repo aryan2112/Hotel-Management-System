@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Admin Add Rooms</title>
+</head>
+<style>
 	body {
 	  margin: 0;
 	  background: #f2f2f2;
